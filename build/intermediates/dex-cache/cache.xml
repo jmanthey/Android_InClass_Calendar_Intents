@@ -2,11 +2,11 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\LABmin.STORMS\android-sdks\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jar="S:\MobileApps\AndroidSDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="C:\Users\LABmin.STORMS\Documents\AndroidStudioProjects\Android_InClass_Calendar_Intents\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-4cb93101d080a0c4439a55b651a9e240377ef8d1.jar" />
+        <dex dex="S:\MobileApps\Android_InClass_Calendar_Intents\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_c2b75691c5d3b86fcb2456e4ce870c3baa8bc5b0.jar" />
     </item>
 
 </items>
